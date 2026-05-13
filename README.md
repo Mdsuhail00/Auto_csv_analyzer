@@ -1,9 +1,9 @@
 📊 Auto CSV Analyzer
 
-A smart web app that analyzes any CSV file automatically and generates instant charts, statistics and insights — no coding required!
+ A smart web app that analyzes any CSV file automatically and generates instant charts, statistics and insights — no coding required!
 
 🌐 Live Demo
-👉 [Click here to try the app]((https://autocsvanalyzer-gncjxrbcfzbyqshkda9z8z.streamlit.app/))
+👉 [Click here to try the app](https://autocsvanalyzer-gncjxrbcfzbyqshkda9z8z.streamlit.app/)
 
 ✨ Features
 - Upload any CSV file and get instant analysis
@@ -14,7 +14,7 @@ A smart web app that analyzes any CSV file automatically and generates instant c
 - Download statistics report as CSV
 
 🛠️ Tech Stack
-Python | Pandas | Plotly | Streamlit
+ Python | Pandas | Plotly | Streamlit
 
 👤 Author
 **Mohamed Suhail**
